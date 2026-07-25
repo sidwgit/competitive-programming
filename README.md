@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 45 | 19 |
+| 46 | 20 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [games](#games) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (18)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (21)
 - [number theory](#number-theory) (4)
 - [probabilities](#probabilities) (1)
@@ -31,6 +31,7 @@
 - [sortings](#sortings) (6)
 - [strings](#strings) (3)
 - [trees](#trees) (1)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -146,6 +147,7 @@
 | 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.cpp) |
 | 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/1426/A%20-%20Floor%20Number/solution.cpp) |
 | 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.cpp) |
+| 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.cpp) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
 
 ### math
@@ -219,6 +221,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2241E | [Fair and Square](https://codeforces.com/contest/2241/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2241/E%20-%20Fair%20and%20Square/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.cpp) |
 
 ---
 
