@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sidwgit/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/sidwgit/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
 | ------- |
@@ -13,9 +14,11 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sidwgit/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/sidwgit/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 ## Array
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sidwgit/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/sidwgit/competitive-programming/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
@@ -24,5 +27,10 @@
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sidwgit/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/sidwgit/competitive-programming/tree/master/4078-maximum-alternating-sum-of-squares) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sidwgit/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
