@@ -10,11 +10,13 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sidwgit/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/sidwgit/competitive-programming/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sidwgit/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/sidwgit/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/sidwgit/competitive-programming/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Array
 |  |
 | ------- |
@@ -37,5 +39,6 @@
 ## Math
 |  |
 | ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/sidwgit/competitive-programming/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/sidwgit/competitive-programming/tree/master/4084-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
