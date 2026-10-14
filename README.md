@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/sidwgit/competitive-programming/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/sidwgit/competitive-programming/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sidwgit/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
+## Math
+|  |
+| ------- |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/sidwgit/competitive-programming/tree/master/4084-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
