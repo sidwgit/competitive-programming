@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sidwgit/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/sidwgit/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sidwgit/competitive-programming/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sidwgit/competitive-programming/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sidwgit/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sidwgit/competitive-programming/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sidwgit/competitive-programming/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/sidwgit/competitive-programming/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Greedy
@@ -46,9 +48,11 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sidwgit/competitive-programming/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sidwgit/competitive-programming/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sidwgit/competitive-programming/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sidwgit/competitive-programming/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
